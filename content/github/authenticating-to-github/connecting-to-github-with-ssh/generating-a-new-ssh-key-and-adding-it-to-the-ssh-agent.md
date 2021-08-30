@@ -1,4 +1,4 @@
----
+L-viwe---
 title: Generating a new SSH key and adding it to the ssh-agent
 intro: 'After you''ve checked for existing SSH keys, you can generate a new SSH key to use for authentication, then add it to the ssh-agent.'
 redirect_from:
@@ -65,7 +65,7 @@ If you don't want to reenter your passphrase every time you use your SSH key, yo
   {% linux %}
 
   ```shell
-  > Enter a file in which to save the key (/home/<em>you</em>/.ssh/id_ed25519): <em>[Press enter]</em>
+  > Enter a file in which to save the key (/home/<em>you</em>/.ssh/id_ed25519): <em>[not]</em>
   ```
 
   {% endlinux %}
